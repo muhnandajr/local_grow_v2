@@ -1,0 +1,60 @@
+:root {
+  /* fonts */
+  --font-nunito: Nunito;
+  --font-ubuntu: Ubuntu;
+  --font-open-sans: "Open Sans";
+  --font-inter: Inter;
+  --font-nunito-sans: "Nunito Sans";
+
+  /* font sizes */
+  --font-size-3xs: 14px;
+  --font-size-2xs: 15px;
+  --font-size-xs: 16px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 20.94px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 26px;
+  --font-size-3xl: 27.5px;
+  --font-size-4xl: 30px;
+  --font-size-5xl: 35px;
+  --font-size-6xl: 36px;
+  --font-size-7xl: 40px;
+  --font-size-8xl: 42.5px;
+  --font-size-9xl: 60px;
+  --font-size-10xl: 72.5px;
+  --font-size-11xl: 80px;
+  --font-size-12xl: 120px;
+  --font-size-13xl: 240px;
+
+  /* Colors */
+  --color-gray-100: #fff8f8;
+  --color-gray-200: #ced1e5;
+  --color-gray-300: #747582;
+  --color-gray-400: #282c4b;
+  --color-gray-500: #1e1e1e;
+  --color-gray-600: #14183e;
+  --color-gray-700: #0c1338;
+  --color-gray-800: rgba(0, 0, 0, 0.6);
+  --color-gray-900: rgba(0, 0, 0, 0.45);
+  --color-gray-1000: rgba(255, 255, 255, 0.8);
+  --color-gray-1100: rgba(30, 30, 30, 0.87);
+  --color-gray-1200: rgba(0, 0, 0, 0.8);
+  --color-gray-1300: rgba(30, 30, 30, 0.9);
+  --text-header: #fff;
+  --color-black: #000;
+  --color-gold: #eedb4d;
+  --color-cyan: #44d3ee;
+  --color-brown-100: #ff698d;
+  --color-brown-200: #fb3f6c;
+  --color-brown-300: rgba(255, 105, 141, 0.5);
+  --color-orange: #f17216;
+
+  /* border radiuses */
+  --br-2xs: 5px;
+  --br-xs: 8px;
+  --br-sm: 10px;
+  --br-md: 15px;
+  --br-lg: 80px;
+  --br-xl: 192px;
+}
